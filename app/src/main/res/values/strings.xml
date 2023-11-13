@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">LabWork1</string>
+    <string name="app_name">Lab2_Android</string>
+    <string-array name="chooseLanguage">
+        <item>Рус</item>
+        <item>Eng</item>
+    </string-array>
 </resources>
